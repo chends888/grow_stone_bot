@@ -15,5 +15,5 @@ This bot has only been tested with Windows, might work with Linux, but some modi
 
 ## Python environment Setup
 In order to run the bot, you'll need Python and some additional libraries.
-To install Python on your machine, head over to: <a href="https://www.python.org/downloads/windows/" target="_blank">https://www.python.org/downloads/windows/</a>
-[link](https://www.python.org/downloads/windows/){:target="_blank"}
+To install Python on your machine, head over to: https://www.python.org/downloads/windows/ and download Python 3 (Check the box "Add Python 3.8 to PATH")
+
