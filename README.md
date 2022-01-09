@@ -20,3 +20,6 @@ To install Python on your machine, head over to: https://www.python.org/download
 I would recommend you to install VSCode, which is a text editor that also has a command line, useful for installing required libraries and running the bot. To install it, go to https://code.visualstudio.com/download and download the Windows User version (you're probably using a 64-bit computer, so download the 64-bit version).
 
 Open VSCode, on the left side, click the two files icon and "Open a Folder"
+
+
+`pip install pywinauto`
