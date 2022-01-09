@@ -21,5 +21,3 @@ I would recommend you to install VSCode, which is a text editor that also has a 
 
 Open VSCode, on the left side, click the two files icon and "Open a Folder"
 
-
-`pip install pywinauto`
